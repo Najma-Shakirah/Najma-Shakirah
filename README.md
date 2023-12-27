@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Najma</h1>
 <h3 align="center">1st year CS student at UTM</h3>
-<h3 align="center">- 👨‍💻 Check my portfolio! [https://najma-shakirah.github.io/najma-portfolio.github.io/](https://najma-shakirah.github.io/najma-portfolio.github.io/)</h3>
+<h3 align="center">- 👨‍💻 Check my portfolio! https://najma-shakirah.github.io./</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najma-shakirah&label=Profile%20views&color=0e75b6&style=flat" alt="najma-shakirah" /> </p>
 
