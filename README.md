@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m mainly interested in web and app development, but also looking into data engineering/science/analysis.
 - 🌱 I’m currently studying Computer Science(Data Engineering) at Universiti Teknologi Malaysia
 - 📫 You can reach out to me through my email: najmashakirah39@gmail.com
-
+<h1 align="center" >
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="left">Courses 📚</h1>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
