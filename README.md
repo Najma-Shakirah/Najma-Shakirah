@@ -17,7 +17,23 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m mainly interested in web and app development, but also looking into data engineering/science/analysis.
 - 🌱 I’m currently studying Computer Science(Data Engineering) at Universiti Teknologi Malaysia
 - 📫 You can reach out to me through my email: najmashakirah39@gmail.com
-<h1 align="center" >
+- 
+<h1 >Education and Certification</h1>
+
+- University Technology of Malaysia (2023 - present)
+- SMK Aminuddin Baki (2017 - 2021)
+  <p> SPM - 7A 1B 1C </p>
+   PT3 - 8A 1B
+   
+- SK Taman Desa (2011 - 2016)
+   <p> UPSR 5A 1B  </p>
+   
+<h1 >Co-curiculum </h1>
+
+- Participated in Kuiz Kimia Kebangsaan
+- Silver in MASTECC district level
+- 4th place in DSTA 2021
+
 <h1 align="left">Connect with me</h1>
 
 <div align="left">
