@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najma-shakirah&label=Profile%20views&color=0e75b6&style=flat" alt="najma-shakirah" /> </p>
 
+![](https://images.app.goo.gl/J1kzz1LzGNNtXfRt6)
+
 - 👋 Hi, I’m Najma Shakirah binti Shahrulzaman
 - 👀 I’m mainly interested in web and app development, but also looking into data engineering/science/analysis.
 - 🌱 I’m currently studying Computer Science(Data Engineering) at Universiti Teknologi Malaysia
