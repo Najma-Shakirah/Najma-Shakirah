@@ -3,7 +3,7 @@ Najma-Shakirah/Najma-Shakirah is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Najma</h1>
+# Hello, I'm Najma! ^^
 <h3 align="center">1st year CS student at UTM</h3>
 <h3 align="center">- 👨‍💻 Check my portfolio! https://najma-shakirah.github.io./</h3>
 
