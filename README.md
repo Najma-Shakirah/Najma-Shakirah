@@ -4,6 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center"> Hello, I'm Najma! ^^ </h1>
+
+#### ![512](https://github.com/Najma-Shakirah/Najma-Shakirah/assets/147504144/46e72a46-2316-4724-9a32-cfd25e9ff72e)
+
+
 <h3 align="center">1st year CS student at UTM</h3>
 <h3 align="center">- 👨‍💻 Check my portfolio! https://najma-shakirah.github.io./</h3>
 
@@ -13,11 +17,14 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+<h1>Get to know me!</h1>
+
 - 👋 Hi, I’m Najma Shakirah binti Shahrulzaman
 - 👀 I’m mainly interested in web and app development, but also looking into data engineering/science/analysis.
+- ~ I love art with all my heart
 - 🌱 I’m currently studying Computer Science(Data Engineering) at Universiti Teknologi Malaysia
 - 📫 You can reach out to me through my email: najmashakirah39@gmail.com
-- 
+  
 <h1 >Education and Certification</h1>
 
 - University Technology of Malaysia (2023 - present)
