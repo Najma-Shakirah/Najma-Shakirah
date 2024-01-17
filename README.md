@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently studying Computer Science(Data Engineering) at Universiti Teknologi Malaysia
 - 📫 You can reach out to me through my email: najmashakirah39@gmail.com
 <h1 align="center" >
-<h3 align="left">Connect with me:</h3>
+
 <h1 align="left">Courses 📚</h1>
 </p>
 <div style="margin: 50px;">
