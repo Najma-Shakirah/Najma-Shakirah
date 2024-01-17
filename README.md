@@ -18,6 +18,22 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently studying Computer Science(Data Engineering) at Universiti Teknologi Malaysia
 - 📫 You can reach out to me through my email: najmashakirah39@gmail.com
 <h1 align="center" >
+<h1 align="left">Connect with me</h1>
+
+<div align="left">
+  
+ 
+  <a href="https://discordapp.com/users/ttakane39">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:najmashakirah39gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/najma-shakirah/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
 
 <h1 align="left">Courses 📚</h1>
 </p>
@@ -46,18 +62,3 @@ You can click the Preview link to take a look at your changes.
 ![Najma's GitHub stats](https://github-readme-stats.vercel.app/api?username=najma-shakirah&theme=material-palenight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najma-shakirah&layout=donut-vertical&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="left">Connect with me</h1>
-
-<div align="left">
-  
- 
-  <a href="https://discordapp.com/users/ttakane39">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:najmashakirah39gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/najma-shakirah/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
