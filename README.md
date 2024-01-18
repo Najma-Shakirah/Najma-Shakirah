@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="left">Connect with me</h1>
 
+
 <div align="left">
   
  
@@ -59,8 +60,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="left">Courses 📚</h1>
-</p>
 <div style="margin: 50px;">
+  <h2 align="left">Semester 1</h2>
 <a href="https://github.com/Najma-Shakirah/SECI1013-Discrete-Structure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Najma-Shakirah&repo=SECI1013-Discrete-Structure&theme=material-palenight" />
 </a>
