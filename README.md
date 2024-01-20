@@ -41,6 +41,10 @@ You can click the Preview link to take a look at your changes.
 - Silver in MASTECC district level
 - 4th place in DSTA 2021
 
+  <h1 >Position </h1>
+  - Core member of web and app development team in GDSE
+  - Member of Gamelan club
+
 <h1 align="left">Connect with me</h1>
 
 
